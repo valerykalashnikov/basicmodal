@@ -8,7 +8,9 @@ How to use
 
 Example:
  
+```
 $.modal({ target: $(target), content: tpl, cssClass:'modal_mode'});
+```
 
 target: jQuery object containing element which to add modal window with overlay, 
 body of document for example
