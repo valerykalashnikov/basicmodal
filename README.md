@@ -1,7 +1,7 @@
 Basic Modal
 ==========
 
-Basic Modal window jQuery plugin. 
+jQuery modal window plugin. 
 
 How to use
 ----------
